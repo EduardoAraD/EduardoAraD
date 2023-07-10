@@ -1,7 +1,8 @@
-## Olá! Eu sou o Eduardo Araújo 👋
+## Hello! I'm Eduardo Araújo 👋
 
-- 🔭 Eu sou trabalho com Front-end
-- 🌱 Estudando Expo e NextJS
+- 🔭 I'm a Front-End Developer, and I work mainly with technologies like React JS, React Native and Expo.
+- 🌱 Studying NextJS
+
 
 <div>
   <a href="github.com/EduardoAraD" />
