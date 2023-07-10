@@ -35,6 +35,8 @@
   </a>
 </div>
 
+![snake gif](https://github.com/eduardoarad/eduardoarad/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **EduardoAraD/EduardoAraD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
