@@ -1,12 +1,12 @@
 ## Hello! I'm Eduardo Araújo 👋
 
 - 🔭 I'm a Front-End Developer, and I work mainly with technologies like React JS, React Native and Expo.
-- 🌱 Studying NextJS
+- 🌱 Studying NextJS ans Jest
 
 
 <div>
   <a href="github.com/EduardoAraD" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoarad&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoarad&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoarad&theme=dark&layout=compact" />
 </div>
 
