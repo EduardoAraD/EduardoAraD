@@ -1,7 +1,7 @@
 ## Hello! I'm Eduardo Araújo 👋
 
 - 🔭 I'm a Front-End Developer, and I work mainly with technologies like React JS, React Native and Expo.
-- 🌱 Studying NextJS ans Jest
+- 🌱 Studying NextJS, Jest and NodeJS.
 
 
 <div>
